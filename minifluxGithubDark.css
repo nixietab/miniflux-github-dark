@@ -1,0 +1,124 @@
+:root {
+    --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+
+    --body-color: #c9d1d9;
+    --body-background: #0d1117;
+    --hr-border-color: #30363d;
+    --title-color: #c9d1d9;
+    --link-color: #58a6ff;
+    --link-focus-color: #79c0ff;
+    --link-hover-color: #79c0ff;
+    --link-visited-color: #a371f7;
+
+    --header-list-border-color: #21262d;
+    --header-link-color: #c9d1d9;
+    --header-link-focus-color: #58a6ff;
+    --header-link-hover-color: #58a6ff;
+    --header-active-link-color: #f78166;
+
+    --page-header-title-color: #c9d1d9;
+    --page-header-title-border-color: #21262d;
+
+    --logo-color: #c9d1d9;
+    --logo-hover-color-span: #f0f6fc;
+
+    --table-border-color: #30363d;
+    --table-th-background: #161b22;
+    --table-th-color: #c9d1d9;
+    --table-tr-hover-background-color: #21262d;
+    --table-tr-hover-color: #c9d1d9;
+
+    --button-primary-border-color: #30363d;
+    --button-primary-background: #21262d;
+    --button-primary-color: #f0f6fc;
+    --button-primary-focus-border-color: #58a6ff;
+    --button-primary-focus-background: #2c313a;
+
+    --input-border: 1px solid #30363d;
+    --input-background: #0d1117;
+    --input-color: #c9d1d9;
+    --input-placeholder-color: #8b949e;
+
+    --input-focus-color: #f0f6fc;
+    --input-focus-border-color: #58a6ff;
+    --input-focus-box-shadow: 0 0 0 3px rgba(56, 139, 253, 0.3);
+
+    --alert-color: #c9d1d9;
+    --alert-background-color: #161b22;
+    --alert-border-color: #30363d;
+
+    --alert-success-color: #56d364;
+    --alert-success-background-color: #161b22;
+    --alert-success-border-color: #238636;
+
+    --alert-error-color: #f85149;
+    --alert-error-background-color: #161b22;
+    --alert-error-border-color: #da3633;
+
+    --alert-info-color: #58a6ff;
+    --alert-info-background-color: #161b22;
+    --alert-info-border-color: #1f6feb;
+
+    --panel-background: #161b22;
+    --panel-border-color: #30363d;
+    --panel-color: #8b949e;
+
+    --modal-background: #161b22;
+    --modal-color: #c9d1d9;
+    --modal-box-shadow: 0 0 10px rgba(56, 139, 253, 0.4);
+
+    --pagination-link-color: #c9d1d9;
+    --pagination-border-color: #21262d;
+
+    --category-color: #c9d1d9;
+    --category-background-color: #0d1117;
+    --category-border-color: #21262d;
+    --category-link-color: #8b949e;
+    --category-link-hover-color: #c9d1d9;
+
+    --item-border-color: #30363d;
+    --item-padding: 4px;
+    --item-title-link-font-weight: 500;
+
+    --item-status-read-title-link-color: #8b949e;
+    --item-status-read-title-focus-color: #58a6ff;
+
+    --item-meta-focus-color: #8b949e;
+    --item-meta-li-color: #c9d1d9;
+
+    --current-item-border-width: 2px;
+    --current-item-border-color: #58a6ff;
+    --current-item-box-shadow: 0 0 4px rgba(56, 139, 253, 0.5);
+
+    --entry-header-border-color: #21262d;
+    --entry-header-title-link-color: #c9d1d9;
+    --entry-content-color: #8b949e;
+    --entry-content-code-color: #c9d1d9;
+    --entry-content-code-background: #161b22;
+    --entry-content-code-border-color: #30363d;
+    --entry-content-quote-color: #8b949e;
+    --entry-content-abbr-border-color: #30363d;
+    --entry-content-aside-border-color: #30363d;
+    --entry-enclosure-border-color: #21262d;
+
+    --parsing-error-color: #f85149;
+    --feed-parsing-error-background-color: #2d0e0e;
+    --feed-parsing-error-border-style: solid;
+    --feed-parsing-error-border-color: #da3633;
+
+    --feed-has-unread-background-color: #0d1117;
+    --feed-has-unread-border-style: solid;
+    --feed-has-unread-border-color: #1f6feb;
+
+    --category-has-unread-background-color: #0d1117;
+    --category-has-unread-border-style: solid;
+    --category-has-unread-border-color: #1f6feb;
+
+    --keyboard-shortcuts-li-color: #8b949e;
+
+    --counter-color: #c9d1d9;
+}
+
+html {
+    color-scheme: dark;
+}
