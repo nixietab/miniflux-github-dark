@@ -6,7 +6,8 @@ Currently i have made
 - Github Dark
 - Gruvbox
 - Tomorrow
-  
+- Gentoo
+
 ## Usage
 
 1. Go to `Settings > Custom CSS` in your Miniflux instance.
@@ -26,6 +27,10 @@ Gruvbox
 Tomorrow
 
 ![image](https://github.com/user-attachments/assets/9884bd2e-0d59-461b-b498-6df8f5dcd29c)
+
+Gentoo
+
+![image](https://github.com/user-attachments/assets/21d540a5-a3ba-454b-ab7c-3297daf030fe)
 
 
 ## License
